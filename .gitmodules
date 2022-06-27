@@ -1,0 +1,3 @@
+[submodule "volufind"]
+	path = volufind
+	url = https://github.com/gabriel946albuquerque/volufind.git
